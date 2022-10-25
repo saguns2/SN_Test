@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="User Table" max_length="40" name="x_429468_git_tes_1_user_table" type="collection">
+        <element label="u_age" max_length="40" name="age" type="integer"/>
+        <element label="u_dob" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="u_display_age" max_length="40" name="display_age" type="boolean"/>
+        <element label="u_first_name" max_length="255" name="first_name" type="string"/>
+        <element label="u_last_name" max_length="255" name="last_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
