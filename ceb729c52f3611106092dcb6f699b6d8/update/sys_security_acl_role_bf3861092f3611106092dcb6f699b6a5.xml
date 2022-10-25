@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sagun.s</sys_created_by>
+        <sys_created_on>2022-10-25 18:56:17</sys_created_on>
+        <sys_id>bf3861092f3611106092dcb6f699b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_429468_git_tes_1_user_table.x_429468_git_tes_1.admin</sys_name>
+        <sys_package display_value="GIT_Test_App_2" source="x_429468_git_tes_1">ceb729c52f3611106092dcb6f699b6d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT_Test_App_2">ceb729c52f3611106092dcb6f699b6d8</sys_scope>
+        <sys_security_acl display_value="x_429468_git_tes_1_user_table">7f3861092f3611106092dcb6f699b6a2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bf3861092f3611106092dcb6f699b6a5</sys_update_name>
+        <sys_updated_by>sagun.s</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:56:17</sys_updated_on>
+        <sys_user_role display_value="x_429468_git_tes_1.admin" name="x_429468_git_tes_1.admin">8eb729c52f3611106092dcb6f699b6e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
