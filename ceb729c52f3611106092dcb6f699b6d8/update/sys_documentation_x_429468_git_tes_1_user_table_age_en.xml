@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="age" label="u_age" language="en" table="x_429468_git_tes_1_user_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>age</element>
+            <help/>
+            <hint/>
+            <label>u_age</label>
+            <language>en</language>
+            <name>x_429468_git_tes_1_user_table</name>
+            <plural>u_ages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sagun.s</sys_created_by>
+            <sys_created_on>2022-10-25 19:06:53</sys_created_on>
+            <sys_id>2baa658d97f21110343a3766f053afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_age</sys_name>
+            <sys_package display_value="GIT_Test_App_2" source="x_429468_git_tes_1">ceb729c52f3611106092dcb6f699b6d8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GIT_Test_App_2">ceb729c52f3611106092dcb6f699b6d8</sys_scope>
+            <sys_update_name>sys_documentation_x_429468_git_tes_1_user_table_age_en</sys_update_name>
+            <sys_updated_by>sagun.s</sys_updated_by>
+            <sys_updated_on>2022-10-25 19:06:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
